@@ -36,6 +36,12 @@ You can type the project name to find it. For example, type `NominisYS` to find 
 
 Go to project page and copy `git clone ......`.
 
+![fork project](https://github.com/sunyaojin/Gerrit/blob/master/fig/f2.png)
+
+
+
+
+
 
 ### Contribute code and commit
 
