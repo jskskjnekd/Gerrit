@@ -20,7 +20,7 @@
 
 + Add SSH to Gerrit account
 
-add figure
+![add ssh key](https://github.com/sunyaojin/Gerrit/blob/master/fig/f1.png)
 
 ### Find the project you want to contribute
 
