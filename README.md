@@ -34,7 +34,7 @@ You can type the project name to find it. For example, type `NominisYS` to find 
 Go to project page and copy `git clone ......`.
 
 
-## Contribute code and commit
+### Contribute code and commit
 
 
 ```bash
@@ -42,7 +42,7 @@ git add -A
 git commit -a -m "add comment"
 ```
 
-## Push to gerrit server
+### Push to gerrit server
 
 ```bash
 git push origin HEAD:refs/for/master
@@ -50,6 +50,22 @@ git push origin HEAD:refs/for/master
 
 `refs/for/<target-branch>` 
 
+
+## Terms
+
+
+### Label `Verified`
+
+```json
+  [label "Verified"]
+      function = MaxWithBlock
+      value = -1 Fails
+      value = 0 No score
+      value = +1 Verified
+      copyAllScoresIfNoCodeChange = true
+```
+
+__compiles, passes basic unit tests__
 
 
 
