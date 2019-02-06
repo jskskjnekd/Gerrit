@@ -9,6 +9,11 @@
 ## What is _Gerrit_
 
 
+
+![Procedures](https://github.com/sunyaojin/Gerrit/blob/master/fig/f4.png)
+
+
+
 ## How to use Gerrit
 
 
