@@ -34,7 +34,21 @@ You can type the project name to find it. For example, type `NominisYS` to find 
 Go to project page and copy `git clone ......`.
 
 
+## Contribute code and commit
 
+
+```bash
+git add -A
+git commit -a -m "add comment"
+```
+
+## Push to gerrit server
+
+```bash
+git push origin HEAD:refs/for/master
+```
+
+`refs/for/<target-branch>` 
 
 
 
