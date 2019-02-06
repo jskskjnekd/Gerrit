@@ -51,10 +51,27 @@ Go to project page and copy `git clone ......`.
 ### Contribute code and commit
 
 
+
+
+__Before commit to the changes, you need to add username and email info__
+
+```bash
+git config user.name test3
+git config user.email test3@microwu.com
+```
+
+
+
+
 ```bash
 git add -A
 git commit -a -m "add comment"
 ```
+
+
+
+
+
 
 ### Push to gerrit server
 
