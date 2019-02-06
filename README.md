@@ -74,7 +74,7 @@ git push origin HEAD:refs/for/master
       copyAllScoresIfNoCodeChange = true
 ```
 
-__compiles, passes basic unit tests__
+It means that __compiles, passes basic unit tests__.
 
 
 
