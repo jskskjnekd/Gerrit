@@ -28,6 +28,9 @@
 
 You can type the project name to find it. For example, type `NominisYS` to find `NominisYS/gerrit_demo`.
 
+![find your project](https://github.com/sunyaojin/Gerrit/blob/master/fig/f3.png)
+
+
 
 ### Fork the project
 
